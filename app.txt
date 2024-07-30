@@ -1,0 +1,17 @@
+<html>
+     <head>
+         <title>Simple Class based selector example</title>
+         <style type="text/css">
+          .special{
+                color:green;
+                }
+
+         </style>
+      </head>
+      <body>
+        <h1 class="special">Hi</h1>
+        <b class="special">Welcome to Rise</b>
+        <h1>- Manisha</h1>
+
+      </body>
+</html>
